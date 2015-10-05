@@ -1,2 +1,2 @@
-### Starbound Mods
-This is a pack containing minimods ive made for the game <a href="http://starbounder.org">starbounder</a>.
+### Starbound mods
+This is a pack containing minimods i've made for the game <a href="http://playstarbound.com/">starbound</a>.
